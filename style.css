@@ -14,7 +14,7 @@ img{
     align-content: center;
     height: 100vh;
     position: relative;
-    bottom:300px
+   
 }
 h2
 {
@@ -29,6 +29,5 @@ footer
     font-size: 2em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: relative;
-    bottom:500px
 
 }
